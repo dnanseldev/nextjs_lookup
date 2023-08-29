@@ -1,4 +1,4 @@
-import Navigation from '@/components/header/page'
+import Navigation from '@/components/header/navigation'
 import Image from 'next/image'
 
 export default function Home() {
